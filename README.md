@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Checkout is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://augment.market/c/checkout
+Checkout is a global payments platform offering a suite of APIs and tools that enable businesses to accept, process, and manage online payments. It provides unified payments API, hosted payment pages, mobile SDKs, fraud detection, authentication, issuing, payouts, and advanced features like AI-driven intelligent acceptance and real‑time account updates. Checkout serves enterprises across e‑commerce, marketplaces, travel, gaming, fintech, and more, delivering high‑performance, secure, and scalable payment solutions worldwide.
+
+**Areas:** Payments · Fintech · E-Commerce · Global
+
+## Checkout on APIs.io
+
+Everything profiled for Checkout is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/checkout/](https://apis.io/providers/checkout/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Checkout API](https://apis.io/apis/checkout/checkout-api-2/) — Checkout API provides payment processing endpoints as documented in the API reference.
+- [Checkout Checkout API](https://apis.io/apis/checkout/checkout-checkout-api-api/) — The Checkout API API from Checkout — 1 operation(s) for checkout api.
+- [Checkout Connect API](https://apis.io/apis/checkout/checkout-connect-api/) — The Connect API from Checkout — 1 operation(s) for connect.
+- [Checkout Payments API](https://apis.io/apis/checkout/checkout-payments-api/) — The Payments API from Checkout — 1 operation(s) for payments.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Checkout Webhooks](https://apis.io/asyncapis/checkout/checkout-webhooks/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostRequest](https://apis.io/schemas/checkout/checkout-post-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Checkout Context](https://apis.io/jsonld/checkout/checkout-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Checkout API Rules](https://apis.io/rules/checkout/checkout-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Checkout Authentication](https://apis.io/security/checkout/checkout-authentication/)
+- [Checkout Domain Security](https://apis.io/security/checkout/checkout-domain-security/)
+- [Checkout Vulnerability Disclosure](https://apis.io/security/checkout/checkout-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.checkout.com)
+- [Documentation](https://docs.checkout.com/)
+- [Getting started](https://www.checkout.com/docs/card-issuing/card-program-setup)
+- [API reference](https://api-reference.checkout.com/)
+- [Pricing](https://www.checkout.com/pricing)
+- [Sign up](https://www.checkout.com/events/register-interest-padel)
+- [Support](https://support.checkout.com)
+- [Blog](https://www.checkout.com/blog)
+- [Trust centre](https://trust.checkout.com/)
+- [Terms of service](https://www.checkout.com/legal/terms-and-policies)
+- [Privacy policy](https://www.checkout.com/legal/privacy-notice)
+- [GitHub](https://github.com/checkout)
+- [Status](https://identity.checkout.com/app/statuspage_saml/exk1izzuix2ptvgqk0h8/sso/saml?SAMLRequest=fZLLbsIwEEV%2FJTuvnPfDWASJFlVFoioC2kU3yHUcYkHskHEQ5eubhFJoFyws2dK9Z%2B7MeAis3FV03JhCLcS%2BEWCsMYCojdTqUStoSlEvRX2QXLwtZikqjKmAOk7JFNsIGwwzDVTdVWoHoD0t0OFnJ7ImLVAq1tGuXpkJZaT5snkh%2BFY3xua6dFhVOVfcuueI49aTp1Mjj35lDpv91i3IbxVkPemaiz57inK2g7bgdJKidZKLgISej3MS%2BTgUCcHEHeQ49qIwicmAhTFppQCNmKq2pjIp8l0%2Fxp6LXbLyXBpFNAw%2BkDWvtdFc7x6kyqTapKipFdUMJFDFSgHUcLocv8yob7v08ywC%2BrxazfH8dblC1ruooW%2B%2BFSDrWO4U0C78fRK7rODWUt33VD9R0WjYqWnfXj26DJ2TjAwGcY4zPw9xyLiHSRb7mLOM5V4SBBn%2Fv86hcws6v%2F7%2BldE3&RelayState=https%3A%2F%2Fcheckout-services.statuspage.io%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=bc0Uml1jiH3UR8BJDHFDVIDwkTg%2FUMkz1HyfQJZTSgjFUDb87cGZFo1HnSVjCjNyGnb7P756QWVdqy%2B5S3SSaAbVDOcaMPjm3dXbajeGe8EIb3CfyIEUdyOeoJ6caRoqTjo0zzsRIzOma4x6jYv6wJIwPGVGNJ1ZZ3uISuSoom4sGoYtBGbcQpYxsXdgFcDB6pqSl%2FVpgAoaZRjodT%2FlaeDPTFSNqXY4Z3lunCl0iKSkhEQ80epunGS9gWMPdv%2Bp%2F%2FFl6YdKHWV8vsN3Jgh0uZIfino1gE42Bt9tQDNasLU04pP7Yvr6nR4x%2Bpo9Kgm0b2Uee27rCRxpYaU9PVuvDQ%3D%3D)
+
+## API Evangelist rating
+
+**Kin Score 43.2** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 64.3 |
+| Contract quality | 25.4 |
+| Contract governance | 22.0 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 52.6 |
+
+**Agent readiness 33.8** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 32.1** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/checkout/](https://apis.io/providers/checkout/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Checkout: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/checkout/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
